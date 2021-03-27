@@ -1,3 +1,3 @@
 
-Author: Mohamad Randi Andika
-Author URL: dikong.github.io/dikong
+Author: Akhmad Rafi Oktavian
+Author URL: rafioktavian.github.io/portfolio/
